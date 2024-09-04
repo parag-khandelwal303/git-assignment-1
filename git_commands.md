@@ -24,7 +24,10 @@
 
 `git status -s` : Short hand property for checking the changes in files. Tells us which file is modified in working tree and staging area.
 
+`git branch` : Shows all the branches.
+
 `git branch <branch_name>` : creates a new branch with the branch_name.
 
 `git checkout <branch_name>` : Switches to branch_name.
 
+`git checkout -b <branch_name>` : creates a new branch and switch to that branch.
