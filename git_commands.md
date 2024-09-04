@@ -31,3 +31,10 @@
 `git checkout <branch_name>` : Switches to branch_name.
 
 `git checkout -b <branch_name>` : creates a new branch and switch to that branch.
+
+## Git Remote Repositories
+
+* `git remote` : Shows the remote repositories if any.
+* `git remote add origin <url>` : Adds a remote repository as a origin.
+* `git remote -v` : Shows the url for fetching and pull requests.
+* `git push origin master` : Pushes the master branch to the origin remote repository.
