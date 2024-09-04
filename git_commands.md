@@ -23,3 +23,8 @@
 `git rm --cached` :  removes file from staging area but does not delete it.
 
 `git status -s` : Short hand property for checking the changes in files. Tells us which file is modified in working tree and staging area.
+
+`git branch <branch_name>` : creates a new branch with the branch_name.
+
+`git checkout <branch_name>` : Switches to branch_name.
+
